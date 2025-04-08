@@ -62,12 +62,12 @@ I'm an aspiring Backend Developer with a strong background in networks and infra
 ## 💼 Experiência Profissional / Work Experience
 
 ### **Dexian** – Infrastructure Analyst  
-📅 2025 – Atual  
+📅 2024 - 2025 – Atual  
 - Gerenciamento de infraestrutura em ambientes de alta performance  
 - Stack: Python, Docker, Grafana  
 
 ### **Altarede** – Network Analyst  
-📅 2020 – 2025  
+📅 2020 – 2024  
 - Co-criação do sistema **AdminENG** para automação e monitoramento  
 - Redução de tarefas manuais em **60%**  
 - Automatização de BGP e ativações via API  
