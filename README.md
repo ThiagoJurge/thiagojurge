@@ -56,7 +56,6 @@ I'm an aspiring Backend Developer with a strong background in networks and infra
 | Nome / Name        | Descrição / Description                         | Tecnologias |
 |--------------------|--------------------------------------------------|-------------|
 | **AdminENG**       | Ferramenta interna para automação de rede       | Flask, React, PRTG API |
-| **Flask API Demo** | API RESTful para exemplo de backend              | Python, PostgreSQL |
 
 ---
 
