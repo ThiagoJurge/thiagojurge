@@ -10,7 +10,7 @@
 
 <div align="center">
   📍 Nova Friburgo, Brazil | 📧 thiagojurge@hotmail.com<br>
-  🔗 [LinkedIn](https://linkedin.com/in/thiago-jurge) | 💻 [GitHub](https://github.com/thiagojurge)
+  🔗 [LinkedIn](https://linkedin.com/in/thiago-jurge)
 </div>
 
 ---
