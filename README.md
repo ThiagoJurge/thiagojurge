@@ -11,7 +11,7 @@
 <div align="center">
   📍 Nova Friburgo, RJ - Brazil  
   📧 thiagojurge@hotmail.com | 📱 +55 22 98101-3352  
-  🔗 [LinkedIn](https://linkedin.com/in/thiago-jurge) | 💻 [GitHub](https://github.com/thiagojurge)  
+  🔗 [LinkedIn](https://linkedin.com/in/thiago-jurge)
 </div>
 
 ---
