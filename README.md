@@ -6,16 +6,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiagojurge&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagojurge&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <br clear="both">
 
-<img align="right" height="180" src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-2de4-622f-b087-593e9065ddec/raw?se=2025-04-17T14%3A54%3A09Z&sp=r&sv=2024-08-04&sr=b&scid=30dcedd7-0df0-5740-99e3-9f973fe1c9c4&skoid=ac1d63ad-0c69-4017-8785-7a50eb04382c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-16T23%3A36%3A38Z&ske=2025-04-17T23%3A36%3A38Z&sks=b&skv=2024-08-04&sig=rKOKZOK4akKOihSZd9FWIN2z2CA/tJROJ99TrP7n07s%3D"  />
+<img align="right" height="180" src="https://img001.prntscr.com/file/img001/khlKvJRZTHOQd-frDd6fiQ.png"  />
 
 ###
 
