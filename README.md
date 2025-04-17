@@ -1,110 +1,72 @@
-# Thiago Jurge Salles
+<h2 align="left">Alô. Lhe apresento um pouco do Thiago logo abaixo:</h2>
+
+###
+
+<p align="left">A caminhada é difícil, mas, é como eu sempre digo: se fosse fácil, todo mundo estaria fazendo.<br>Eis um backend developer com muita coisa ainda a aprender, mas buscando a cada dia saber um pouco mais</p>
+
+###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagojurge&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagojurge&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-  📍 Nova Friburgo, RJ - Brazil  
-  📧 thiagojurge@hotmail.com | 📱 +55 22 98101-3352  
-  🔗 [LinkedIn](https://linkedin.com/in/thiago-jurge)
+###
+
+<br clear="both">
+
+<img align="right" height="180" src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-2de4-622f-b087-593e9065ddec/raw?se=2025-04-17T14%3A54%3A09Z&sp=r&sv=2024-08-04&sr=b&scid=30dcedd7-0df0-5740-99e3-9f973fe1c9c4&skoid=ac1d63ad-0c69-4017-8785-7a50eb04382c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-16T23%3A36%3A38Z&ske=2025-04-17T23%3A36%3A38Z&sks=b&skv=2024-08-04&sig=rKOKZOK4akKOihSZd9FWIN2z2CA/tJROJ99TrP7n07s%3D"  />
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
 </div>
 
----
+###
 
-## 🇧🇷 Sobre Mim
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+</div>
 
-Sou um Desenvolvedor Backend em formação com paixão por Python, infraestrutura de redes e automação. Com experiência prática em projetos de monitoramento, DevOps e desenvolvimento de APIs, estou em busca de oportunidades internacionais onde possa colaborar e crescer em times modernos e inovadores.
+###
 
-- 👨‍💻 Comecei a programar aos 17 anos
-- 🌐 Forte base em redes (Cisco, BGP, MPLS)
-- 🔧 Experiência com Linux, Docker, PRTG, Zabbix, Grafana
-- 🎯 Meta 2025: Fluência em inglês (B2+)
-
----
-
-## 🇺🇸 About Me
-
-I'm an aspiring Backend Developer with a strong background in networks and infrastructure. Passionate about Python, automation, and DevOps practices, I'm looking for international opportunities to contribute and grow within modern engineering teams.
-
-- 👨‍💻 Programming since age 17
-- 🌐 Solid knowledge of Cisco networks, BGP, and MPLS
-- 🔧 Experienced with Linux, Docker, PRTG, Zabbix, Grafana
-- 🎯 2025 Goal: Reach B2+ fluency in English
-
----
-
-## 🛠️ Skills
-
-| Area               | Technologies |
-|--------------------|--------------|
-| **Backend**        | Python, Flask, REST API |
-| **Frontend (basic)** | ReactJS, NextJS |
-| **Databases**      | PostgreSQL, MySQL |
-| **DevOps**         | Docker, Git, GitHub, Linux |
-| **Monitoring**     | PRTG, Grafana, Zabbix |
-| **Networking**     | TCP/IP, BGP, DNS, Routing, Cisco IOS |
-
----
-
-## 🧪 Projetos / Projects
-
-| Nome / Name        | Descrição / Description                         | Tecnologias |
-|--------------------|--------------------------------------------------|-------------|
-| **AdminENG**       | Ferramenta interna para automação de rede       | Flask, React, PRTG API |
-
----
-
-## 💼 Experiência Profissional / Work Experience
-
-### **Dexian** – Infrastructure Analyst  
-📅 2024 - 2025 – Atual  
-- Gerenciamento de infraestrutura em ambientes de alta performance  
-- Stack: Python, Docker, Grafana  
-
-### **Altarede** – Network Analyst  
-📅 2020 – 2024  
-- Co-criação do sistema **AdminENG** para automação e monitoramento  
-- Redução de tarefas manuais em **60%**  
-- Automatização de BGP e ativações via API  
-- Stack: Flask, ReactJS, PRTG, Python  
-
----
-
-## 🎓 Educação / Education
-
-- 🎓 **BSc em Análise e Desenvolvimento de Sistemas** – Unopar (2025–2029)  
-- 🎓 Técnico em Automação Industrial – SENAI (2019)  
-- 🌐 Curso de Programação Web – SENAI (2019)
-
----
-
-## 📜 Certificações
-
-| Título / Title | Organização | Verificação |
-|----------------|-------------|-------------|
-| Python Essentials 1 & 2 | Cisco | [🔗 Verify](https://www.credly.com/users/thiago-jurge) |
-| JavaScript Essentials | Cisco | [🔗 Verify](https://www.credly.com/users/thiago-jurge) |
-| English for IT 2 | Cisco | [🔗 Verify](https://www.credly.com/users/thiago-jurge) |
-| Networking Basics & Essentials | Cisco | [🔗 Verify](https://www.credly.com/users/thiago-jurge) |
-| Endpoint Security | Cisco | [🔗 Verify](https://www.credly.com/users/thiago-jurge) |
-
----
-
-## 🌍 Idiomas / Languages
-
-- **Português** – Nativo  
-- **Inglês** – Intermediário (B1), em progresso para B2+
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thiagojurge&label=Profile%20Views&color=blueviolet" alt="Profile Views" />
-  <a href="https://github.com/thiagojurge?tab=followers">
-    <img src="https://img.shields.io/github/followers/thiagojurge?label=Follow&style=social" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/thiago-jurge/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="wa.me/5522981013352" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:thiagojurge@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/thiagojurge/thiagojurge/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thiagojurge.thiagojurge&left_color=darkblue&left_text=Visitantes"  />
+
+###
